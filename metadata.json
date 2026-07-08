@@ -1,0 +1,6 @@
+{
+  "name": "Aventura Literaria",
+  "description": "Una divertida aplicación al estilo Duolingo para que niños de primaria exploren la mitología clásica, héroes y literatura medieval con resúmenes interactivos, divertidos cuestionarios e insignias coleccionables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
